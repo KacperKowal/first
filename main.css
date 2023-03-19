@@ -1,0 +1,11 @@
+a:hover {
+  color: red;
+}
+
+main {
+  background: purple;
+}
+
+main ~ footer {
+  background: red;
+}
